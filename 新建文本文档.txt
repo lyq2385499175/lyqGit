@@ -1,0 +1,14 @@
+秀@DESKTOP-KF1R8OJ MINGW64 /f/2018/react (master)
+$ git config --global user.name "屈姣秀"
+秀秀@DESKTOP-KF1R8OJ MINGW64 /f/2018/react (master)
+$ git config --global user.email "865332229@qq.com"
+秀秀@DESKTOP-KF1R8OJ MINGW64 /f/2018/react (master)
+$ git init
+Reinitialized existing Git repository in F:/2018/react/.git/
+秀秀@DESKTOP-KF1R8OJ MINGW64 /f/2018/react (master)
+$ ls
+hellow.txt  one.css                 React脚手架/  管理系统/
+id传参/     react/                  redux封装/    考试/
+JSJ/        react-admin-master/     webpack/      体验/
+my-app/     react-ele-demo-master/  xiuxiu/       页面/
+秀秀@DESKTOP-KF1R8OJ MINGW64 /f/2018/react (master)

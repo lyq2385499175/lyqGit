@@ -1,0 +1,187 @@
+﻿application 应用程式 应用、应用程序 
+application framework 应用程式框架、应用框架 应用程序框架 
+argument 引数（传给函式的值）。叁见
+ parameter 叁数、实质叁数、实叁、自变量 
+array 阵列 数组 
+arrow operator arrow（箭头）运算子 箭头操作符
+assembly 装配件 
+assembly language 汇编语言
+assert 断言 
+assign 指派、指定、设值、赋值 赋值 
+assignment 指派、指定 赋值、分配 
+attribute 属性 属性、特性 
+audio 音讯 音频 
+A.I. 人工智慧 人工智能 
+background 背景 背景（用於图形着色） 
+后台（用於行程） 
+backward compatible 回溯相容 向下兼容 
+bandwidth 频宽 带宽 
+base class 基础类别 基类 
+base type 基础型别 (等同於 base class) 
+batch 批次（意思是整批作业） 批处理 
+benefit 利益 收益 
+best viable function 最佳可行函式 最佳可行函式 
+（从 viable functions 中挑出的最佳吻合者）
+binary search 二分搜寻法 二分查找
+binary tree 二元树 二叉树
+binary function 二元函式 双叁函数
+binary operator 二元运算子 二元操作符 
+binding 系结 绑定
+bit 位元 位 
+bit field 位元栏 位域 
+bitmap 位元图 位图
+block 区块,区段 块、区块、语句块 
+boolean 布林值（真假值，true 或 false） 布尔值 
+border 边框、框线 边框 
+brace(curly brace) 大括弧、大括号 花括弧、花括号 
+bracket(square brakcet) 中括弧、中括号 方括弧、方括号 
+breakpoint 中断点 断点 
+build 建造、构筑、建置（MS 用语） 
+bus 汇流排 总线 
+business 商务,业务 业务 
+buttons 按钮 按钮 
+byte 位元组（由 8 bits 组成） 字节 
+cache 快取 高速缓存 
+call 呼叫、叫用 调用 
+callback 回呼 回调 
+call operator call（函式呼叫）运算子调用操作符 
+（同 function call operator） 
+（在函式多载决议程序中出现的候选函式） 
+chain 串链（例 chain of function calls） 链 
+character 字元 字符 
+checkbox 核取方块 (i.e. check button) 复选框 
+check button 方钮 (i.e. check box) 复选按钮 
+class 类别 类 
+cleanup 清理、善后 清理、清除 
+client 客端、客户端、客户 客户 
+client－server 主从架构 客户/服务器 
+clipboard 剪贴簿 剪贴板 
+clone 复制 克隆 
+collection 群集 集合 
+command line 命令列 命令行 
+(系统文字模式下的整行执行命令) 
+communication 通讯 通讯 
+compatible 相容 兼容 
+compile time 编译期 编译期、编译时 
+compiler 编译器 编译器 
+component 组件 组件
+computer 电脑、计算机 计算机、电脑 
+concept 概念 概念 
+concrete 具象的 实在的 
+configuration 组态 配置 
+connection 连接，连线（网络,资料库） 连接 
+construct 构件 构件 
+container 容器 容器 
+（存放资料的某种结构如 list, vector...） 
+context 背景关系、周遭环境、上下脉络 环境、上下文 
+control 控制元件、控件 控件 
+console 主控台 控制台 
+const 常数（constant 的缩写，C++ 关键字） 
+constant 常数（相对於 variable） 常量 
+constructor（ctor） 建构式 构造函数 
+（与class 同名的一种 member functions） 
+copy 复制、拷贝 拷贝 
+cover 涵盖 覆盖 
+create 创建、建立、产生、生成 创建 
+creation 产生、生成 创建 
+cursor 游标 光标 
+custom 订制、自定 定制 
+data 资料 数据 
+database 资料库 数据库
+debug 除错 调试 
+debugger 除错器 调试器 
+declaration 宣告、宣告式 声明 
+deduction 推导（例：template argument deduction） 推导、推断 
+default 预设 缺省、默认 
+defer 延缓 推迟 
+define 定义 预定义
+definition 定义、定义区、定义式 定义 
+delegate 委派、委托、委任 委托 
+destroy 摧毁、销毁 
+destructor 解构式 析构函数 
+device 装置、设备 设备 
+dialog 对话窗、对话盒 对话框 
+directive 指令（例：using directive） (编译)指示符 
+directory 目录 目录 
+disk 碟 盘 
+dispatch 分派 分派 
+distributed computing 分布式计算 (分布式电算) 分布式计算 
+分散式计算 (分散式电算) 
+document 文件 文档 
+driver 驱动程式 驱动（程序）
+end user 终端用户 
+entity 物体 实体、物体  
+enum (enumeration) 列举（一种 C++ 资料型别） 枚举  
+equal 相等 相等 
+equality 相等性 相等性 
+event 事件 事件 
+event driven 事件驱动的 事件驱动的 
+exception 异常情况 异常 
+exit 退离（指离开函式时的那一个执行点） 退出 
+export 汇出 引出、导出 
+expression 运算式、算式 表达式 
+feature 特性 
+field 栏位,资料栏（Java） 字段, 值域（Java） 
+file 档案 文件 
+flag 旗标 标记 
+flash memory 快闪记忆体 闪存 
+flush 清理、扫清 刷新 
+font 字型 字体 
+form 表单（programming 用语） 窗体 
+formal parameter 形式叁数 形式叁数
+framework 框架 框架  
+function 函式、函数 函数 
+game 游戏 游戏 
+generate 生成 
+getter (相对於 setter) 取值函式 
+global 全域的（对应於 local） 全局的 
+global object 全域物件 全局对象  
+group 群组 
+GUI 图形介面 图形界面 
+hand shaking 握手协商 
+handle 识别码、识别号、号码牌、权柄 句柄 
+handler 处理常式 处理函数 
+hard－coded 编死的 硬编码的 
+hard－copy 硬拷图 屏幕截图 
+hard disk 硬碟 硬盘 
+hardware 硬体 硬件 
+hash table 杂凑表 哈希表、散列表  
+heap 堆积 堆 
+hook 挂钩 钩子
+icon 图示、图标 图标 
+IDE 整合开发环境 集成开发环境 
+identifier 识别字、识别符号 标识符 
+image 影像 图象 
+import 汇入 导入 
+increment operator 累加运算子 ++ 增加操作符 
+infinite loop 无穷回圈 无限循环 
+infinite recursive 无穷递回 无限递归 
+information 资讯 信息 
+inline 行内 内联 
+initialize 初始化 初始化 
+instance 实体 实例 
+integer (integral) 整数（的） 整型（的） 
+interface 介面 接口 
+for GUI 介面 界面  
+invoke 唤起 调用 
+数组常用方法：
+push pop join sort reverse  splice slice concat shift unshift
+字符串常用方法：
+subString  subStr  slice  indexOf  repeat split 
+Math对象常用方法：
+Math.random()  
+Date对象常用方法
+Object 常用方法
+Object.is  
+Object.assign
+jQuery常用方法
+DOM操作常用方法 
+Nodejs常用对象和方法
+fs.readFile fs.writeFile  http.createServer
+res.send
+res.sendFile
+req.
+JOSN.parse()  JOSN.stringify()
+Vue中常用对象和方法
+filter  
+watch  
